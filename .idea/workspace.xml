@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="629bb71d-260f-42ba-acb6-29896e09e85b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/level.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/profile.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +116,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UAP95FkDfXkOTErYhwLoOy8cjA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -129,7 +135,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\orm" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -169,6 +180,9 @@
       <workItem from="1575409123318" duration="609000" />
       <workItem from="1575487437686" duration="6263000" />
       <workItem from="1575659717210" duration="371000" />
+      <workItem from="1575827682525" duration="1602000" />
+      <workItem from="1575860891022" duration="804000" />
+      <workItem from="1575861727538" duration="4050000" />
     </task>
     <servers />
   </component>
@@ -193,13 +207,43 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="643" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1575317467749" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1575659720925">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1575861682447">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575861682447" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1575829862340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575829862340" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1575829862338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575829862338" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1575829862336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575829862336" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1575829862339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575829862339" />
+    <state x="518" y="283" key="NewPhpFileDialog" timestamp="1575866920780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="283" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575866920780" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1575861692623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575861692623" />
+    <state x="438" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1575860897350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="245" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575860897350" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1575659720925" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1575496352741">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="443" y="160" width="672" height="469" key="search.everywhere.popup" timestamp="1575863874621">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="443" y="160" width="672" height="469" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1575863874621" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1575496352741" />
   </component>
 </project>
